@@ -2,6 +2,9 @@
 
 Atividade prática desenvolvida utilizando Java e Spring Boot, com o objetivo de implementar uma API REST para cadastro e consulta de livros.
 
+## Integrantes
+Davi de Souza Santos Barbosa
+
 ## Tecnologias utilizadas
 
 - Java 21
